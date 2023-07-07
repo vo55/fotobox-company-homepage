@@ -27,7 +27,7 @@ jobs:
       env:
         JEKYLL_ENV: production
     - name: "Deploy to AWS S3"
-      run: aws s3 sync ./_site/ s3://${{ secrets.AWS_S3_BUCKET_NAME }} --acl public-read --delete --cache-control max-age=604800 --acl bucket-owner-full-control
+      run: aws s3 sync ./_site/ s3://${{ secrets.AWS_S3_BUCKET_NAME }} --exact-timestamps --acl public-read --delete --cache-control max-age=604800 --acl bucket-owner-full-control
     - name: "Invalidate Cache"
       run: aws cloudfront create-invalidation --distribution-id ${{ secrets.PERSONAL_SITE_CF_ID }} --paths "/*"
       env:
