@@ -40,7 +40,7 @@ en: &DEFAULT_EN
   timeline:
     title: "Fotobox Features"
     text: "Unsere Fotobox bietet viele Vorteile"
-    section: timeline
+    section: features
     # left is the default
     #start_align: "left"
     events:
@@ -69,10 +69,10 @@ en: &DEFAULT_EN
     end: "Kontaktiere uns!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
+    title: "Über uns"
+    text: "Unsere Geschichte."
+    body: "Fotobox Company haben wir nach unserer eigenen Hochzeit 2023 gestartet. Wir fanden die existierenden Angebote nicht attraktiv und Philip hat kurzerhand ein eigene Fotobox gebaut. Mit der gesammelten Erfahrung ist nun unsere Fotobox im Weltkartenmotiv entstanden, welche wir zur Vermietung anbieten."
+    section: Ueber
 
 
   contact:
@@ -150,7 +150,7 @@ de: &DEFAULT_DE
   timeline:
     title: "Fotobox Features"
     text: "Unsere Fotobox bietet viele Vorteile"
-    section: timeline
+    section: features
     # left is the default
     #start_align: "left"
     events:
@@ -181,7 +181,7 @@ de: &DEFAULT_DE
   about:
     title: "Über uns"
     text: "Unsere Geschichte."
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "Fotobox Company haben wir nach unserer eigenen Hochzeit 2023 gestartet. Wir fanden die existierenden Angebote nicht attraktiv und Philip hat kurzerhand ein eigene Fotobox gebaut. Mit der gesammelten Erfahrung ist nun unsere Fotobox im Weltkartenmotiv entstanden, welche wir zur Vermietung anbieten."
     section: Ueber
   
   contact:
