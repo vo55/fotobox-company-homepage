@@ -130,17 +130,17 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Schick uns deine Anfrage"
+    text: "Oder direkt per e-mail an info@fotobox.company"
     section: contact
     name: "Name*"
-    name-validation: "Please enter your name."
+    name-validation: "Dein Name."
     email: "Email*"
-    email-validation: "Please enter your email address."
+    email-validation: "Deine E-Mail Adresse."
     phone: "Phone Number"
     phone-validation: "Please enter your phone number."
     message: "Message*"
-    message-validation: "Please enter a message."
+    message-validation: "Deine Nachricht. Gib bitte das Datum, den Lieferort an."
     subject: "Contact Form Submission"
     submit: "Send Message"
 
@@ -325,62 +325,62 @@ es-CO:
 # -----------------
 de: &DEFAULT_DE
   header:
-    title: Willkommen auf unserer Webseite!
-    text: Schön das Sie hier sind!
-    button: Mehr erfahren
-    buttonlink: "#Angebote"
+    title: Willkommen bei Fotobox Company!
+    text: Lerne unsere Fotobox kennen
+    button: Kennenlernen
+    buttonlink: "#services"
 
   services:
-    title: "Leistungen"
-    text: "Was wir anbieten."
-    section: Leistungen
+    title: "Services"
+    text: "Unser Serviceangebot für Fotoboxen auf einen Blick"
+    section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://de.wikipedia.org/wiki/Markdown)"
-        desc: "Hier können Sie etwas mit **Markdown** einfügen."
-        icon: fab fa-markdown
+      - title: "Vermietung von Fotoboxen"
+        desc: "Wir vermieten Fotoboxen für Hochzeiten, Geburtstage, Firmenevents oder alle anderen Anlässe."
+        icon: fas fa-camera-retro #find more at https://fontawesome.com/icons
+      - title: "Anlieferung und Aufbau innerhalb Hamburg"
+        desc: "Innerhalb unseres Geschäftsgebiets, liefern wir dir die Fotobox nach Absprache persönlich und bauen sie vor Ort direkt auf."
+        icon: fas fa-cogs
+      - title: "Versand und Selbstaufbau deutschlandweit"
+        desc: "Solltest du nicht in unserem Geschäftsgebiet sein, können wir die Box an dich verschicken und du baust diese selber auf. Sollte etwas schief gehen, unterstützen wir telefonisch."
+        icon: fas fa-archive
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: Portfolio
-    closebutton: "Schließen"
-
+    title: "Referenzen"
+    text: "Diese Events, konnten wir schon mit unserer Fotobox für immer festhalten."
+    section: portfolio
+    closebutton: "Close Project"
+  
   timeline:
-    title: "Geschichte"
-    text: "Lorem ipsum timeline"
-    section: Geschichte
+    title: "Fotobox Features"
+    text: "Unsere Fotobox bietet viele Vorteile"
+    section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Unsere Anfänge"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Fotos direkt in der Online-Galerie"
+        year: ""
+        desc: "Alle Fotos, die mit der Fotobox gemacht werden, landen direkt in unserer Online-Galerie und können von den Gästen heruntergeladen werden. **WLAN am Aufstellort erforderlich**"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Gründung der Firma"
-        year: "März 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Keine Speicherplatz Begrenzung"
+        year: ""
+        desc: "Ihr könnt soviele Fotos von euch durch die Fotobox schießen lassen, wie ihr wollt. Bei einer Anmietung einer unserer Fotoboxen habt ihr keine Limits!"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Das Jekyll-Thema wurde erstellt"
-        year: "2019"
-        desc: "Ravi Riley wandelte Agency, ein auf Bootstrap basierendes Thema, in ein Jekyll-Thema um. Man kann das Jekyll-Thema als Ruby-Gem oder remotely installieren. Für mehr Informationen, schauen Sie sich die Dokumentation an."
-        image: assets/img/timeline/3.jpg
-        alt: Bildbeschreibung
-      - title: "Titel"
-        year: "2009-2011"
-        desc: "Hier können Sie etwas mit **Markdown** einfügen."
-        image: assets/img/timeline/4.jpg
+      - title: "Optionaler Handydrucker"
+        year: ""
+        desc: "Die Fotobox selber ist eine digitale Fotobox. Das heißt, dass sie **keine** Druckfunktion besitzt. Du kannst aber unseren Instax Link 2 dazu mieten, um mit einer Handy-App die Fotos über dein Smartphone drucken zu können."
+        image: assets/img/timeline/drucker.webp
+        alt: image alt text
+      - title: "Aufsteller mit QR-Code"
+        year: ""
+        desc: "Zu jeder Anmietung gibt es einen praktischen Aufsteller mit Verlinkung auf die Online-Galerie kostenlos dazu."
+        image: assets/img/timeline/aufsteller.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Seien Sie <br> Teil unserer <br> Geschichte!"
+    end: "Kontaktiere uns!"
 
   about:
     title: "Über uns"
@@ -444,19 +444,19 @@ de: &DEFAULT_DE
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Kontakt"
-    text: "Kontaktieren Sie uns."
-    section: Kontakt
+    title: "Schick uns deine Anfrage"
+    text: "Oder direkt per e-mail an info@fotobox.company"
+    section: contact
     name: "Name*"
-    name-validation: "Geben Sie einen Namen ein."
-    email: "E-Mail*"
-    email-validation: "Geben Sie Ihre E-Mail-Addresse ein."
-    phone: "Telefonnummer*"
-    phone-validation: "Geben Sie Ihre Telefonnummer ein."
-    message: "Nachricht*"
-    message-validation: "Schreiben Sie etwas..."
-    subject: "Kontakt-Formular Bestätigung"
-    submit: "Nachricht absenden"
+    name-validation: "Dein Name."
+    email: "Email*"
+    email-validation: "Deine E-Mail Adresse."
+    phone: "Phone Number"
+    phone-validation: "Please enter your phone number."
+    message: "Message*"
+    message-validation: "Deine Nachricht. Gib bitte das Datum, den Lieferort an."
+    subject: "Contact Form Submission"
+    submit: "Send Message"
 
   footer:
     legal: "Datenschutzerklärung"
