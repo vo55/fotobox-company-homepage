@@ -23,28 +23,11 @@
                   required="required" data-validation-required-message="{{ site.data.sitetext[site.locale].contact.name-validation | default: "Please enter your name." }}">
                 <p class="help-block text-danger"></p>
               </div>
+            <div class="col-md-6">
               <div class="form-group">
                 <input name="_replyto" class="form-control" id="email" type="email"
                   placeholder="{{ site.data.sitetext[site.locale].contact.email | default: "Email*" }}"
                   required="required" data-validation-required-message="{{ site.data.sitetext[site.locale].contact.email-validation | default: "Please enter your email address." }}">
-                <p class="help-block text-danger"></p>
-              </div>
-              <div class="form-group">
-                <input name="date" class="form-control" id="date" type="date"
-                  placeholder="{{ site.data.sitetext[site.locale].contact.date | default: "Wunschdatum*" }}"
-                  required="required" data-validation-required-message="{{ site.data.sitetext[site.locale].contact.date-validation | default: "Bitte gib dein Wunschdatum an." }}">
-                <p class="help-block text-danger"></p>
-              </div>
-              <div class="form-group">
-                <input name="printer" class="form-control" id="printer" type="text"
-                  placeholder="{{ site.data.sitetext[site.locale].contact.printer | default: "Möchtest für 25€ den Smartphone Drucker (inklusive 20 instax mini fotos)" }}"
-                  required="required" data-validation-required-message="{{ site.data.sitetext[site.locale].contact.printer-validation | default: "Gib Ja oder Nein an" }}">
-                <p class="help-block text-danger"></p>
-              </div>
-              <div class="form-group">
-                <input name="address" class="form-control" id="address" type="text"
-                  placeholder="{{ site.data.sitetext[site.locale].contact.address | default: "Musterstraße 1, 12345 Musterstadt" }}"
-                  required="required" data-validation-required-message="{{ site.data.sitetext[site.locale].contact.address-validation | default: "Bitte gib deine Lieferadresse an." }}">
                 <p class="help-block text-danger"></p>
               </div>
             </div>
