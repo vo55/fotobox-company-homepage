@@ -47,12 +47,12 @@ en: &DEFAULT_EN
       - title: "Fotos direkt in der Online-Galerie"
         year: ""
         desc: "Alle Fotos, die mit der Fotobox gemacht werden, landen direkt in unserer Online-Galerie und können von den Gästen heruntergeladen werden. **WLAN am Aufstellort erforderlich**"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/gallery.jpg
         alt:
       - title: "Keine Speicherplatz Begrenzung"
         year: ""
         desc: "Ihr könnt soviele Fotos von euch durch die Fotobox schießen lassen, wie ihr wollt. Bei einer Anmietung einer unserer Fotoboxen habt ihr keine Limits!"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/save.jpg
         alt:
       - title: "Optionaler Handydrucker"
         year: ""
@@ -157,12 +157,12 @@ de: &DEFAULT_DE
       - title: "Fotos direkt in der Online-Galerie"
         year: ""
         desc: "Alle Fotos, die mit der Fotobox gemacht werden, landen direkt in unserer Online-Galerie und können von den Gästen heruntergeladen werden. **WLAN am Aufstellort erforderlich**"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/gallery.jpg
         alt:
       - title: "Keine Speicherplatz Begrenzung"
         year: ""
         desc: "Ihr könnt soviele Fotos von euch durch die Fotobox schießen lassen, wie ihr wollt. Bei einer Anmietung einer unserer Fotoboxen habt ihr keine Limits!"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/save.jpg
         alt:
       - title: "Optionaler Handydrucker"
         year: ""
