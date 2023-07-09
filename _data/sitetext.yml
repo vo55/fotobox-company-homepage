@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "Über uns"
     text: "Unsere Geschichte."
-    body: "Fotobox Company haben wir nach unserer eigenen Hochzeit 2023 gestartet. Wir fanden die existierenden Angebote nicht attraktiv und Philip hat kurzerhand ein eigene Fotobox gebaut. Mit der gesammelten Erfahrung ist nun unsere Fotobox im Weltkartenmotiv entstanden, welche wir zur Vermietung anbieten."
+    body: "Fotobox Company haben wir nach unserer eigenen Hochzeit 2023 gestartet. Wir fanden die existierenden Angebote nicht attraktiv und Philip hat kurzerhand eine eigene Fotobox gebaut. Mit der gesammelten Erfahrung ist nun unsere Fotobox im Weltkartenmotiv entstanden, welche wir zur Vermietung anbieten."
     section: Ueber
 
 
@@ -181,7 +181,7 @@ de: &DEFAULT_DE
   about:
     title: "Über uns"
     text: "Unsere Geschichte."
-    body: "Fotobox Company haben wir nach unserer eigenen Hochzeit 2023 gestartet. Wir fanden die existierenden Angebote nicht attraktiv und Philip hat kurzerhand ein eigene Fotobox gebaut. Mit der gesammelten Erfahrung ist nun unsere Fotobox im Weltkartenmotiv entstanden, welche wir zur Vermietung anbieten."
+    body: "Fotobox Company haben wir nach unserer eigenen Hochzeit 2023 gestartet. Wir fanden die existierenden Angebote nicht attraktiv und Philip hat kurzerhand eine eigene Fotobox gebaut. Mit der gesammelten Erfahrung ist nun unsere Fotobox im Weltkartenmotiv entstanden, welche wir zur Vermietung anbieten."
     section: Ueber
   
   contact:
