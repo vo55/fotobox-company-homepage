@@ -11,29 +11,29 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Willkommen bei Fotobox Company!
+    text: Lerne unsere Fotobox kennen
+    button: Kennenlernen
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Unser Serviceangebot für Fotoboxen auf einen Blick"
     section: services
     list:
       - title: "Vermietung von Fotoboxen"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        desc: "Wir vermieten Fotoboxen für Hochzeiten, Geburtstage, Firmenevents oder alle anderen Anlässe."
+        icon: fas fa-retro-camera #find more at https://fontawesome.com/icons
       - title: "Anlieferung und Aufbau innerhalb Hamburg"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+        desc: "Innerhalb unseres Geschäftsgebiets, liefern wir dir die Fotobox nach Absprache persönlich und bauen sie vor Ort direkt auf."
+        icon: fas fa-cogs
       - title: "Versand und Selbstaufbau deutschlandweit"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        desc: "Solltest du nicht in unserem Geschäftsgebiet sein, können wir die Box an dich verschicken und du baust diese selber auf. Sollte etwas schief gehen, unterstützen wir telefonisch."
+        icon: fas fa-archive
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Referenzen"
+    text: "Diese Events, konnten wir schon mit unserer Fotobox für immer festhalten."
     section: portfolio
     closebutton: "Close Project"
 
@@ -62,7 +62,7 @@ en: &DEFAULT_EN
       - title: "Aufsteller mit QR-Code"
         year: ""
         desc: "Zu jeder Anmietung gibt es einen praktischen Aufsteller mit Verlinkung auf die Online-Galerie kostenlos dazu."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/aufsteller.jpg
         alt:
         # you can enforce the alignment
         align: right

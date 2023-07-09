@@ -1,22 +1,15 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
+  title: Hannah & Philip
+  subtitle: Unsere eigene Hochzeit
+  thumbnail: assets/img/portfolio/hanna-philip.jpg
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+title: Hannah & Philip
+subtitle: Auf unserer eigenen Hochzeit hat Philip die Fotobox selber gebaut. Sie ist der Prototyp für die Fotoboxen von der Fotobox Company
+image: assets/img/portfolio/hanna-philip.jpg #main image, can be a link or a file in assets/img/portfolio
+alt: Fotobox Company bei Hannah und Philip
 
 ---
-Use this area to describe your project. **Markdown** supported.
 
-optional info list (delete if not using):
-
-{:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
 
