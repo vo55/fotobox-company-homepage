@@ -95,7 +95,7 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
-    legal: "Privacy Policy"
+    legal: "Datenschutzerklärung & Impressum"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
@@ -204,7 +204,7 @@ de: &DEFAULT_DE
     submit: "Send Message"
 
   footer:
-    legal: "Datenschutzerklärung"
+    legal: "Datenschutzerklärung & Impressum"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
