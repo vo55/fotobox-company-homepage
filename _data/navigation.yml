@@ -33,21 +33,21 @@ en-AU:
   <<: *DEFAULT_EN
 
 
-# Deutsch
-# -----------------
-de: &DEFAULT_DE
-  nav:
-    - title: "Leistungen"
-      section: Leistungen
-    - title: "Portfolio"
-      section: Portfolio
-    - title: "Über uns"
-      section: Ueber
-    - title: "Features"
-      section: features
-    - title: "Team"
-      section: Team
-    - title: "Kontakt"
-      section: Kontakt
-de-DE:
-  <<: *DEFAULT_DE
+# # Deutsch
+# # -----------------
+# de: &DEFAULT_DE
+#   nav:
+#     - title: "Leistungen"
+#       section: Leistungen
+#     - title: "Portfolio"
+#       section: Portfolio
+#     - title: "Über uns"
+#       section: Ueber
+#     - title: "Features"
+#       section: features
+#     - title: "Team"
+#       section: Team
+#     - title: "Kontakt"
+#       section: Kontakt
+# de-DE:
+#   <<: *DEFAULT_DE
