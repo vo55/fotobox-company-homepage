@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Vermietung von Fotoboxen"
-        desc: "Wir vermieten Fotoboxen für Hochzeiten, Geburtstage, Firmenevents oder alle anderen Anlässe. Die Miete beträgt pro Tag gerade einmal 99€. Die Fotobox ist in einem Koffer mit Weltkartenmotiv eingbaut und wird mit einem Stativ aufgebaut. Die Bedienung erfolgt über einen Touchscreen. Die Anlieferung im Umkreis von 10km ist kostenlos, ansonsten kommen ggf. Anfahrtsgebühren hinzu."
+        desc: "Wir vermieten Fotoboxen für Hochzeiten, Geburtstage, Firmenevents oder alle anderen Anlässe. Die Miete beträgt pro Tag gerade einmal 99€. Schaue dir die Features der Fotobox weiter unten an. Wichtig: Sie kommt mit einer Online-Galerie, hat dafür aber keine Druckfunktion."
         icon: fas fa-camera-retro #find more at https://fontawesome.com/icons
       - title: "Anlieferung und Aufbau innerhalb Hamburg"
         desc: "Innerhalb unseres Geschäftsgebiets, liefern wir dir die Fotobox nach Absprache persönlich und bauen sie vor Ort direkt auf. Eine Übergabe der Fotobox in Hamburg und Selbstaufbau ist auch möglich."
