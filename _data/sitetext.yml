@@ -46,7 +46,7 @@ en: &DEFAULT_EN
     events:
       - title: "Fotos direkt in der Online-Galerie"
         year: ""
-        desc: "Alle Fotos, die mit der Fotobox gemacht werden, landen direkt in unserer Online-Galerie und können von den Gästen heruntergeladen werden. **WLAN am Aufstellort erforderlich**"
+        desc: "Alle Fotos, die mit der Fotobox gemacht werden, landen direkt in unserer Online-Galerie und können von den Gästen heruntergeladen werden (WLAN am Aufstellort erforderlich). Eine Druckfunktion gibt es daher nicht."
         image: assets/img/timeline/gallery.png
         alt:
       - title: "Keine Speicherplatz Begrenzung"
@@ -54,10 +54,10 @@ en: &DEFAULT_EN
         desc: "Ihr könnt soviele Fotos von euch durch die Fotobox schießen lassen, wie ihr wollt. Bei einer Anmietung einer unserer Fotoboxen habt ihr keine Limits!"
         image: assets/img/timeline/save.png
         alt:
-      - title: "Optionaler Handydrucker"
+      - title: "Eigene Fotorahmen"
         year: ""
-        desc: "Die Fotobox selber ist eine digitale Fotobox. Das heißt, dass sie **keine** Druckfunktion besitzt. Du kannst aber unseren Instax Link 2 dazu mieten, um mit einer Handy-App die Fotos über dein Smartphone drucken zu können."
-        image: assets/img/timeline/drucker.webp
+        desc: "Gegen ein zusätzliches Entgelt können wir für dich einen eigenen Fotorahmen Designen (bspw. im Stil deiner Einladung). Ein Text kann natürlich immer frei gewählt werden."
+        image: assets/img/timeline/design.svg
         alt: image alt text
       - title: "Aufsteller mit QR-Code"
         year: ""
@@ -80,9 +80,7 @@ en: &DEFAULT_EN
     date-validation: "Bitte gib das Wunschdatum an."
     address: "Lieferadresse"
     address-validation: "Bitte gib die Lieferadresse an."
-    printer: "Smartphone Drucker gewünscht? (25€)"
-    printer-validation: "Bitte gib an, ob du den Smartphone Drucker dazubuchen möchtest."
-    message: "Lieferdresse, Wunschdatum, ggf. Zusatzoption (Smartphone Drucker für 25€)*"
+    message: "Lieferdresse, Wunschdatum, ggf. Zusatzoption (Eigenes Template inkl. einer Überarbeitung für 25€)*"
     message-validation: "Deine Nachricht."
     subject: "Contact Form Submission"
     submit: "Send Message"
@@ -166,7 +164,7 @@ en-AU:
 #       - title: "Optionaler Handydrucker"
 #         year: ""
 #         desc: "Die Fotobox selber ist eine digitale Fotobox. Das heißt, dass sie **keine** Druckfunktion besitzt. Du kannst aber unseren Instax Link 2 dazu mieten, um mit einer Handy-App die Fotos über dein Smartphone drucken zu können."
-#         image: assets/img/timeline/drucker.webp
+#         image: assets/img/timeline/design.svg
 #         alt: image alt text
 #       - title: "Aufsteller mit QR-Code"
 #         year: ""
