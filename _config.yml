@@ -16,9 +16,9 @@ theme: jekyll-agency
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Fotobox Company | Fotobox Verleih in Hamburg
+title      : Fotobox Company | Fotobox Verleih in Hamburg und Dülmen
 email      : info@fotobox.company #this is also the email contact forms will go to
-description: "Vermietung von Fotoboxen in Hamburg"
+description: "Vermietung von Fotoboxen in Hamburg und Dülmen"
 author     : Your Name
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
