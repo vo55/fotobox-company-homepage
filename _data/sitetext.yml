@@ -22,10 +22,10 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Vermietung von Fotoboxen"
-        desc: "Wir vermieten Fotoboxen für Hochzeiten, Geburtstage, Firmenevents oder alle anderen Anlässe. Die Miete beträgt pro Tag gerade einmal 99€. Schaue dir die Features der Fotobox weiter unten an. Wichtig: Sie kommt mit einer Online-Galerie, hat dafür aber keine Druckfunktion."
+        desc: "Bei uns kannst du Fotoboxen für verschiedene Anlässe wie Hochzeiten, Geburtstage, Firmenevents und mehr mieten. Der Mietpreis beträgt lediglich 99€ pro Tag. Entdecke unten die vielfältigen Features unserer Fotobox. Beachte jedoch, dass sie über eine praktische Online-Galerie verfügt, jedoch keine Druckfunktion besitzt."
         icon: fas fa-camera-retro #find more at https://fontawesome.com/icons
-      - title: "Anlieferung und Aufbau innerhalb Hamburg und Dülmen"
-        desc: "Innerhalb unseres Geschäftsgebiets, liefern wir dir die Fotobox nach Absprache persönlich und bauen sie vor Ort direkt auf. Eine Übergabe der Fotobox in Hamburg und Selbstaufbau ist auch möglich."
+      - title: "Anlieferung und Aufbau innerhalb Dülmen und Umkreis"
+        desc: "nnerhalb des Münsterlandes, des Ruhrgebiets und speziell in Dülmen bieten wir dir die Fotobox persönlich an. Wir liefern sie nach Absprache und bauen sie vor Ort auf. Du hast auch die Möglichkeit, die Fotobox in Dülmen abzuholen und selbst aufzubauen."
         icon: fas fa-cogs
       - title: "Eigene Fototemplates in eurem Design"
         desc: "Gegen ein zusätzliches Entgelt könnt ihr für den Fotorahmen ein individuelles Design erwerben. Frag uns gerne an, falls wir dir Beispiele zusenden dürfen. Dies eignet sich insbesondere, wenn beispielsweise das Template an die Einladung angepasst werden soll."
